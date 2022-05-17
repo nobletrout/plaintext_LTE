@@ -1,6 +1,6 @@
 # EASY_MODE PRIVATE-LTE
 
-tl;dr
+tl;dr  - budget is $800 or less
 
 1. Go [here](https://www.coursera.org/learn/google-cbrs-cpi-training) and get a certification.
 2. Buy one of [these](https://na.baicells.com/product/Details?id=d45a2d0a-5dae-41ff-8ffc-8906ec052245) or one of [these](https://store.baicells.com/product/Details?id=c7b62a86-c748-4b71-aeb4-3f01bed0b026).
