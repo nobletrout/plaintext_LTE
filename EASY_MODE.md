@@ -12,3 +12,8 @@ tl;dr  - budget is $1400 or less
 8. Activate your SIM Card in cloudcore.
 9. Stick SIM into pixel 4.
 10. Party!
+
+
+# What is easy mode?
+Easy mode is offloading as much of the cognitive load of understanding the giant spaghetti mess of LTE networks onto someone else and making it their problem. Mobile networks need something known as "the core" which manages the interrelationship between multiple towers, billing, access, metering, etc. You can offload 90% of that to a SaaS offering by a few manufacturers, which gets you from "I have a bunch of gear" to "I have a working network." The trade off is that they charge a small fee ($1.00 / UE / Month) that you could save if you operated your own network.
+
