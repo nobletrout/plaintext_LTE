@@ -16,6 +16,12 @@ tl;dr  - budget is $1400 or less
 
 # What is easy mode?
 Easy mode is offloading as much of the cognitive load of understanding the giant spaghetti mess of LTE networks onto someone else and making it their problem. Mobile networks need something known as "the core" which manages the interrelationship between multiple towers, billing, access, metering, etc. You can offload 90% of that to a SaaS offering by a few manufacturers, which gets you from "I have a bunch of gear" to "I have a working network." The trade off is that they charge a small fee ($1.00 / UE / Month) that you could save if you operated your own network.
+# can't get nove 430i to GPS Sync
+
+having issues with `Cell Status`?
+Google SAS says everything is hunky dory?
+
+go into BTC Settings -> Sync Settings and set `sync mode` to `FREE_RUNNING` that appears to solve it.
 
 ## adding a phone number (phone and text)
 Once you get your LTE network up and running eventually you might want a phone number, either for two factor or just to bootstrap google voice. The cheapest and most reliable option I've used for years is (voip.ms)[https://voip.ms]. You can setup to charge only by the minute and only do SIP/RTP VoiP (no phone), but if you pay a little more you can get a DID (Direct Inward Dial or something.... A phone number) attached to it. After that you can get a new default dialer app for your phone, I found one called zoiper that seems to work great. I even get text messaging working through.
