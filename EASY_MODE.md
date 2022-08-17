@@ -24,7 +24,7 @@ Google SAS says everything is hunky dory?
 
 go into BTC Settings -> Sync Settings and set `sync mode` to `FREE_RUNNING` that appears to solve it. I hit this at defcon when struggling to get a signal. The default is for the eNodeB to use GPS to get clock sync, this appears to say "hold my beer" when it comes to timing. There's another option for NTP, but that appeared to "not work" as far as I could tell. 
 
-## adding a phone number (phone and text)
+## adding a phone number (phone and text) - DID
 Once you get your LTE network up and running eventually you might want a phone number, either for two factor or just to bootstrap google voice. The cheapest and most reliable option I've used for years is (voip.ms)[https://voip.ms]. You can setup to charge only by the minute and only do SIP/RTP VoiP (no phone), but if you pay a little more you can get a DID (Direct Inward Dial or something.... A phone number) attached to it. After that you can get a new default dialer app for your phone, I found one called zoiper that seems to work great. I even get text messaging working through.
 
 So the way you want to set this is the following:
