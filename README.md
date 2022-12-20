@@ -10,4 +10,4 @@ The FCC, some FAANGs, and others are motivated to see more innovation in the wir
 I had a lot of exposure to testing early stage LTE/5G networks. My motivation is to try to demystify as much of the mobile network as I can for anyone with a strong networking but non-wireless focused background.
 
 # Thanks
-Many thanks to (Hacker Initiative)[https://hackerinitiative.org/] for funding this work and allowing me to have the available funds to test this experiment out.
+Many thanks to [Hacker Initiative](https://hackerinitiative.org/) for funding this work and allowing me to have the available funds to test this experiment out.
