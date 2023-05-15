@@ -30,7 +30,7 @@ You can find the full list on the FCC's website [here](https://apps.fcc.gov/oetc
  - Ericsson
  - Samsung
 
-Good luck finding or purchasing the samsun and ericsson stuff though. Sounds like it would be difficult. Baicell's resellers were easy to work with, quote me gear, and get it to me. So that's what I went with.
+Good luck finding or purchasing the samsung and ericsson stuff though. Sounds like it would be difficult. Baicell's resellers were easy to work with, quote me gear, and get it to me. So that's what I went with.
 
 ## Core Equipment
 
